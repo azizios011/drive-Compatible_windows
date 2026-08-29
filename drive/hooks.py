@@ -54,7 +54,7 @@ doctype_js = {"doctype" : "public/js/file.js"}
 # ----------
 
 # application home page (will override Website Settings)
-# home_page = "drive"
+home_page = "drive"
 
 # website user home page (by Role)
 # role_home_page = {
